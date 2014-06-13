@@ -1,0 +1,132 @@
+div#wrapper {
+	width: 960px;
+	padding: 20px 0 0 90px;
+}
+div#header {
+	margin-bottom: 40px;
+}
+
+
+div#header ul.header_right
+{
+	padding: 0 0 0 90px;
+	clear:both;
+	float:left;	
+	width: 960px;
+}
+div#header ul.header_right li
+{
+	float:left;
+	padding: 10px 20px 0 0; 
+}
+div#header ul.header_right li.login
+{
+	float: right;
+	padding-right: 210px;
+}
+
+div#header ul.header_right li a
+{
+	
+	text-decoration: none;
+}
+
+div#header ul.header_right li a:link
+{
+	
+	color: black;
+}
+
+div#header ul.header_right li a:visited
+{
+	color: black;
+}
+div#header ul.header_right li a:hover
+{
+	color: red;
+}
+div#container {
+	float: left;
+	width: 762px;
+}
+div#primary {
+	float: right;
+	width: 560px;
+	margin-bottom: 10px;
+	border: 2px solid#d0d0d0;
+	margin-bottom: 10px;
+}
+
+
+div#secondary {
+	float: left;
+	width: 190px;
+	border: 2px solid #d0d0d0;
+}
+div#footer {
+	clear: both;
+	height: 50px;
+	background-color: #00B9EF;
+}
+div#header {
+	height: 30px;
+	background-color: #00B9EF;
+}
+
+div#advertisement {
+	float: right;
+	width:190px;
+	border: 2px solid #d0d0d0;
+	padding: 20px 0 0 0;
+}
+div#advertisement p{
+	padding: 0 0 0 35px;
+}
+h1{
+		padding: 0 0 20px 0;
+		font-size: 24px;
+}
+
+div#secondary p{
+		padding: 20px 0 30px 20px;
+}
+div#secondary h3{
+	padding: 0 0 10px 0;
+}
+div#secondary ul li{
+	padding: 5px 0 0 0;
+}
+div#secondary ul {
+	padding: 0 10px 15px 10px;
+}
+p.createTopic {
+	background: url(../img/create_topic.png) no-repeat 26px 24px;
+	font-size: 14px;
+	margin: 0 10px;
+	border-top: solid 1px #d0d0d0;
+}
+p.createTopic a {
+	padding: 0 0 0 28px;
+}
+p.createTopic a:link {
+	text-decoration: none;
+	color: #333;
+}
+p.createTopic a:visited{
+	color: #333;
+}
+p.createTopic a:hover{
+	color: red;
+}
+
+li.page
+{
+	float: left;
+	padding: 0 10px 0 0;
+}
+p.pankuzu{
+	padding:70px 0 0 90px;
+}
+p{
+	color: red;
+}
